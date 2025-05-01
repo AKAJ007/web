@@ -1,0 +1,50 @@
+
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content:center;
+    align-items:center;
+    height:100px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(39, 17, 13);
+}
+.b{
+    height: 100px;
+    width: 100px;
+    
+    background-color: rgb(248, 96, 40);
+    display:inline-block;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    background-color: rgb(221, 194, 247);
+    padding: 20px;
+    border-radius: 10px;
+    border-color: black;
+}
+.mes{
+    margin-top:20px;
+    front-size:1.2rem;
+    color:Green;
+
+}
+input[type="text"],input[type="number"],input[type="submit"]{
+
+    background-color: rgb(231, 229, 213);
+    padding: 10px;
+    width:100%;
+    margin:10px 0;
+    border-radius: 10px;
+    border-color: black;
+    border:1px solid #ccc;
+}
